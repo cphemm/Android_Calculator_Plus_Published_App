@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#F9E60E</color>
+    <color name="white">#DDDDDD</color>
+    <color name="black">#000000</color>
+    <color name="lightBlue1">#3F51B5</color>
+    <color name="lightBlue2">#FF2F3C84</color>
+    <color name="darkBlue1">#FF061154</color>
+    <color name="darkBlue2">#FF091351</color>
+    <color name="clearButton1">#FF4E7DE4</color>
+    <color name="clearButton2">#FF3363CC</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#060d38</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
